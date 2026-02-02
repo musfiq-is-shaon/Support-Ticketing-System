@@ -4,7 +4,7 @@ A modern, feature-rich Customer Support Ticketing System built with React, Vite,
 
 ![Dashboard Preview](https://via.placeholder.com/800x400?text=Support+Ticketing+System)
 
-## ✨ Features
+##  Features
 
 ### Core Functionality
 - **Ticket Management**: Create, edit, and delete support tickets
